@@ -1,4 +1,4 @@
-package org.ArrayList;
+package restrictwhileinserting;
 
 import java.util.ArrayList;
 import java.util.Scanner;

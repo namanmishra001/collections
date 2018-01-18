@@ -1,6 +1,6 @@
 package solution.linkedlist;
 
 public class Node {
-	Object data;
+ Object data;
 	Node next;
 }

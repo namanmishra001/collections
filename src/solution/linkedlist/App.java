@@ -3,7 +3,7 @@ package solution.linkedlist;
 public class App {
 
 	public static void main(String[] args) {
-		Demo list = new Demo();
+		CustomLinkedList list = new CustomLinkedList();
 		list.add(5);
 		list.add("Naman");
 		list.add("Abc");
